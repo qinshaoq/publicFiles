@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>22</id>
+      <name>20230408大面漏检</name>
+      <size>252</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2023-04-26 01:41:28.272931+00:00</created>
+      <updated>2023-04-26 02:01:32.907224+00:00</updated>
+      <subset>Train</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>251</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>1101</id>
+          <start>0</start>
+          <stop>251</stop>
+          <url>http://192.168.6.13:8080/api/jobs/1101</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>qinshaoq</username>
+        <email>qsq@gaosuxiangji.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>qiao</name>
+          <color>#d43800</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>huashuang</name>
+          <color>#ffc069</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>mnyiwu</name>
+          <color>#ffa39e</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>zhezhou</name>
+          <color>#ad8b00</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>zangwu</name>
+          <color>#d3f261</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>posun</name>
+          <color>#389e0d</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>aokeng</name>
+          <color>#5cdbd3</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2023-04-26 02:05:08.825480+00:00</dumped>
+  </meta>
+  <image id="0" name="missing20230408/images/20230408002913652_YT_FaceB_1_2023-04-08 00-30-20_zx.png" width="3688" height="2797">
+    <polygon label="mnyiwu" source="manual" occluded="0" points="337.27,2760.76;333.26,2759.69;329.24,2758.08;325.49,2755.40;322.81,2752.19;321.47,2747.64;320.14,2743.35;320.94,2739.34;324.95,2737.20;328.70,2735.05;332.72,2733.98;337.00,2733.98;341.56,2733.98;345.04,2736.12;347.71,2739.61;349.05,2743.89;349.05,2748.17;349.86,2752.19;349.05,2756.21;345.30,2758.35;341.02,2759.42;337.00,2760.49" z_order="0">
+    </polygon>
+    <polygon label="qiao" source="manual" occluded="0" points="304.61,2685.79;300.32,2687.39;296.04,2687.39;291.75,2687.39;288.00,2684.98;285.59,2681.50;284.26,2677.22;284.26,2671.59;284.52,2666.78;286.13,2662.76;289.88,2658.74;294.43,2657.14;299.25,2657.14;303.53,2660.35;307.02,2663.03;311.30,2665.44;314.51,2668.38;315.05,2672.40;315.05,2677.49;314.51,2681.77;311.30,2684.98;307.28,2686.05" z_order="0">
+    </polygon>
+    <polygon label="huashuang" source="manual" occluded="0" points="402.07,2675.08;397.79,2675.34;394.04,2672.40;393.50,2668.11;393.50,2663.29;395.11,2659.28;398.59,2657.14;403.14,2656.06;407.42,2656.06;412.51,2656.06;415.19,2660.08;416.53,2664.37;417.87,2668.92;415.46,2673.20;411.44,2675.34;407.16,2676.68;402.87,2677.22" z_order="0">
+    </polygon>
+    <polygon label="zhezhou" source="manual" occluded="0" points="433.67,2720.86;429.65,2721.67;424.29,2721.67;419.74,2718.72;418.67,2712.83;418.14,2707.21;420.28,2702.12;424.03,2699.17;428.31,2698.37;433.13,2698.37;437.41,2698.64;440.89,2701.05;443.04,2704.53;444.91,2708.55;444.91,2712.83;443.57,2717.65;439.56,2719.79;435.54,2720.86" z_order="0">
+    </polygon>
+    <polygon label="zangwu" source="manual" occluded="0" points="484.81,2669.18;480.52,2668.65;477.04,2664.63;475.17,2659.01;474.36,2653.92;473.83,2649.91;473.83,2645.35;475.44,2641.34;479.45,2641.07;483.47,2640.27;489.89,2640.27;494.18,2641.07;496.05,2645.62;496.05,2650.17;496.05,2655.53;496.32,2659.81;494.45,2664.10;490.97,2666.78;487.75,2669.45" z_order="0">
+    </polygon>
+    <polygon label="posun" source="manual" occluded="0" points="500.60,2723.81;496.59,2723.00;494.98,2719.26;493.11,2715.51;493.11,2710.96;495.52,2705.87;500.34,2702.12;505.16,2701.05;509.17,2701.85;511.58,2705.33;513.19,2709.08;513.46,2713.90;513.46,2718.18;509.98,2722.20;505.69,2724.34;501.41,2724.61" z_order="0">
+    </polygon>
+    <polygon label="aokeng" source="manual" occluded="0" points="467.13,2761.83;463.39,2760.22;459.91,2757.28;457.23,2752.73;456.96,2748.17;458.03,2743.89;461.24,2741.21;464.99,2739.61;470.62,2739.34;474.90,2739.34;479.45,2739.61;483.47,2741.21;486.41,2746.03;488.02,2750.05;488.56,2754.87;485.61,2758.88;482.13,2761.29;477.31,2762.90;473.29,2763.17;469.28,2762.37" z_order="0">
+    </polygon>
+    <polygon label="mnyiwu" source="manual" occluded="0" points="266.32,2743.89;262.30,2743.62;257.75,2742.82;253.20,2741.48;248.64,2738.80;244.89,2737.20;242.75,2733.18;242.75,2727.82;243.56,2723.54;247.04,2720.86;251.32,2719.26;257.21,2719.26;262.03,2719.79;266.32,2720.59;272.21,2722.74;275.42,2725.68;278.10,2729.43;279.17,2733.45;277.56,2737.73;273.55,2740.68;269.53,2741.21;265.24,2742.02" z_order="0">
+    </polygon>
+  </image>
+  <image id="248" name="missing20230408/images/20230408212147663_YT_FaceB_1_2023-04-08 21-22-55_zx.png" width="3689" height="2795">
+  </image>
+  <image id="251" name="missing20230408/images/20230408213728592_YT_FaceA_2_2023-04-08 21-38-38_ys.png" width="3604" height="2840">
+  </image>
+</annotations>
